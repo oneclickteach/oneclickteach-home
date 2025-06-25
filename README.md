@@ -14,27 +14,27 @@ The OneClickTeach platform is made up of several modular components that work to
 
 <table>
   <tr>
-    <th style="width: 35%;">Project</th>
+    <th>Project</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>🏠 <a href="https://github.com/oneclickteach/oneclickteach-home"><strong>oneclickteach-home</strong></a></td>
+    <td nowrap>🏠 <a href="https://github.com/oneclickteach/oneclickteach-home"><strong>oneclickteach-home</strong></a></td>
     <td>This repository – the official landing page and gateway for the project</td>
   </tr>
   <tr>
-    <td>🌐 <a href="https://github.com/oneclickteach/oneclickteach-web"><strong>oneclickteach-web</strong></a></td>
+    <td nowrap>🌐 <a href="https://github.com/oneclickteach/oneclickteach-web"><strong>oneclickteach-web</strong></a></td>
     <td>The frontend app for the teaching platform, built with <strong>Next.js</strong> and <strong>TailwindCSS</strong></td>
   </tr>
   <tr>
-    <td>🔧 <a href="https://github.com/oneclickteach/oneclickteach-api"><strong>oneclickteach-api</strong></a></td>
+    <td nowrap>🔧 <a href="https://github.com/oneclickteach/oneclickteach-api"><strong>oneclickteach-api</strong></a></td>
     <td>The backend API, powered by <strong>NestJS</strong> and <strong>PostgreSQL</strong>, handles user accounts, lessons, bookings, and more</td>
   </tr>
   <tr>
-    <td>🏗️ <a href="https://github.com/oneclickteach/oneclickteach-infrastructure"><strong>oneclickteach-infrastructure</strong></a></td>
+    <td nowrap>🏗️ <a href="https://github.com/oneclickteach/oneclickteach-infrastructure"><strong>oneclickteach-infrastructure</strong></a></td>
     <td>Infrastructure code using <strong>Ansible</strong>, <strong>Docker</strong>, and optional <strong>Terraform</strong> for server provisioning and deployment</td>
   </tr>
   <tr>
-    <td>💻 <a href="https://github.com/oneclickteach/oneclickteach-desktop"><strong>oneclickteach-desktop</strong></a></td>
+    <td nowrap>💻 <a href="https://github.com/oneclickteach/oneclickteach-desktop"><strong>oneclickteach-desktop</strong></a></td>
     <td>A cross-platform <strong>Electron</strong> app to help teachers easily configure and deploy their platform — no command line required! <em>(WIP)</em></td>
   </tr>
 </table>

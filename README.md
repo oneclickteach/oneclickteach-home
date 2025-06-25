@@ -12,13 +12,13 @@ OneClickTeach is on a mission to empower language teachers by providing intuitiv
 
 The OneClickTeach platform is made up of several modular components that work together to provide a seamless teaching platform for educators.
 
-| Project | Description |
-|--------|-------------|
-| 🏠 [**oneclickteach-home**](https://github.com/oneclickteach/oneclickteach-home) | This repository – the official landing page and gateway for the project |
-| 🌐 [**oneclickteach-web**](https://github.com/oneclickteach/oneclickteach-web) | The frontend app for the teaching platform, built with **Next.js** and **TailwindCSS** |
-| 🔧 [**oneclickteach-api**](https://github.com/oneclickteach/oneclickteach-api) | The backend API, powered by **NestJS** and **PostgreSQL**, handles user accounts, lessons, bookings, and more |
-| 🏗️ [**oneclickteach-infrastructure**](https://github.com/oneclickteach/oneclickteach-infrastructure) | Infrastructure code using **Ansible**, **Docker**, and optional **Terraform** for server provisioning and deployment |
-| 💻 [**oneclickteach-desktop**](https://github.com/oneclickteach/oneclickteach-desktop) | A cross-platform **Electron** app to help teachers easily configure and deploy their platform — no command line required! *(WIP)*
+| Project                                                                                              | Description                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 🏠 [**oneclickteach-home**](https://github.com/oneclickteach/oneclickteach-home)                     | This repository – the official landing page and gateway for the project                                                           |
+| 🌐 [**oneclickteach-web**](https://github.com/oneclickteach/oneclickteach-web)                       | The frontend app for the teaching platform, built with **Next.js** and **TailwindCSS**                                            |
+| 🔧 [**oneclickteach-api**](https://github.com/oneclickteach/oneclickteach-api)                       | The backend API, powered by **NestJS** and **PostgreSQL**, handles user accounts, lessons, bookings, and more                     |
+| 🏗️ [**oneclickteach-infrastructure**](https://github.com/oneclickteach/oneclickteach-infrastructure) | Infrastructure code using **Ansible**, **Docker**, and optional **Terraform** for server provisioning and deployment              |
+| 💻 [**oneclickteach-desktop**](https://github.com/oneclickteach/oneclickteach-desktop)               | A cross-platform **Electron** app to help teachers easily configure and deploy their platform — no command line required! _(WIP)_ |
 
 Each project is designed to work independently or as part of the full platform, making contributions easier and more focused.
 
@@ -88,7 +88,7 @@ Have questions? New to open source? We’re happy to help — feel free to open 
 
 ## 🌟 Join Our Community
 
-We're building more than just software — we're building a movement to make digital teaching platforms available to every language teacher around the world.  
+We're building more than just software — we're building a movement to make digital teaching platforms available to every language teacher around the world.
 
 Thank you for being part of the OneClickTeach journey!  
 Together, we can reshape how language teachers share their knowledge.
